@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio - Seu Nome</title>
+    <title>Portfólio - Davi </title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
     <header>
-        <h1>Seu Nome Completo</h1>
+        <h1>Davi Mendes Medeiros</h1>
         <nav>
             <ul>
                 <li><a href="#sobre">Sobre mim</a></li>
@@ -28,20 +28,19 @@
                 <img src="img/foto.jpg" alt="Foto pessoal" width="200">
                 <figcaption>Eu em um dia normal de estudos.</figcaption>
             </figure>
-            <p>Olá! Meu nome é [Seu Nome], sou estudante de Desenvolvimento Web e gosto de aprender novas tecnologias. Tenho interesse em design, programação e soluções criativas para a internet.</p>
+            <p>Olá! Meu nome é Davi, sou estudante de Desenvolvimento Web e gosto de aprender novas tecnologias. Tenho interesse em design, programação e soluções criativas para a internet.</p>
         </section>
 
         <!-- SEÇÃO PROJETOS -->
         <section id="projetos">
             <h2>Projetos</h2>
             <ul>
-                <li><a href="https://github.com/seuusuario/projeto1" target="_blank">Sistema de Login em HTML e CSS</a></li>
-                <li><a href="https://github.com/seuusuario/projeto2" target="_blank">Página de Receitas Responsiva</a></li>
-                <li><a href="https://github.com/seuusuario/projeto3" target="_blank">Mini Portfólio com Flexbox</a></li>
+                <li><a href="https://github.com/Davi656/Atividades-HTML-WEB1" target="_blank">Sistema de Login em HTML e CSS</a></li>
+                <li><a href="https://github.com/Davi656/Projects_HTML" target="_blank">Página de Receitas Responsiva</a></li>
+                <li><a href="https://github.com/Davi656/Portifolio_WEB1" target="_blank">Mini Portfólio com Flexbox</a></li>
             </ul>
         </section>
 
-        <!-- SEÇÃO HABILIDADES -->
         <section id="habilidades">
             <h2>Habilidades</h2>
             <table>
@@ -56,12 +55,12 @@
                     <tr>
                         <td>HTML</td>
                         <td>Avançado</td>
-                        <td>1 ano</td>
+                        <td> 6 meses</td>
                     </tr>
                     <tr>
                         <td>CSS</td>
                         <td>Intermediário</td>
-                        <td>10 meses</td>
+                        <td>5 meses</td>
                     </tr>
                     <tr>
                         <td>JavaScript</td>
@@ -72,7 +71,6 @@
             </table>
         </section>
 
-        <!-- SEÇÃO CONTATO -->
         <section id="contato">
             <h2>Contato</h2>
             <form action="#" method="post">
@@ -94,7 +92,7 @@
     </main>
 
     <footer>
-        <p>© 2025 Seu Nome — <a href="https://github.com/seuusuario" target="_blank">GitHub</a> | <a href="mailto:seuemail@gmail.com">E-mail</a></p>
+       <p>© 2025 Davi — <a href="https://github.com/Davi656" target="_blank">GitHub</a> | <a href="mailto:davi.mendes11@aluno.ifce.edu.br">E-mail</a></p>
     </footer>
 </body>
 </html>
